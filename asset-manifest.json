@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/mcard/static/js/main.6cadb6ed.js",
+    "static/js/787.e5e634d1.chunk.js": "/mcard/static/js/787.e5e634d1.chunk.js",
+    "static/media/logo.png": "/mcard/static/media/logo.6ae796f5d9f3e367acea.png",
+    "static/media/brain.webp": "/mcard/static/media/brain.5abf149f3bdee81480f0.webp",
+    "static/media/loading-brain.svg": "/mcard/static/media/loading-brain.39d22b82026c98c3baeaca0c50e0bf7a.svg",
+    "index.html": "/mcard/index.html",
+    "main.6cadb6ed.js.map": "/mcard/static/js/main.6cadb6ed.js.map",
+    "787.e5e634d1.chunk.js.map": "/mcard/static/js/787.e5e634d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6cadb6ed.js"
+  ]
+}
